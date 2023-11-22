@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.body{
+    overflow: hidden;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 1vw;
+    padding-top: 2vh;
+    background-color: black;
+    color: #FABB23;         
+}
+nav{
+    position: relative;
+}
+.links a{
+    color: #E4312b;
+    padding-left: 8vw;
+    padding-right: 8vw;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
